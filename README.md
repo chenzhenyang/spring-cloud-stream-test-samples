@@ -1,0 +1,1 @@
+[Spring Cloud# Spring Cloud Stream UnitTest设计模式](http://blog.csdn.net/xichenguan/article/details/78775241)
